@@ -8,6 +8,7 @@ Applications include **city planning 🏙️, wildlife research 🦊, and public
 
 ## 📌 Scheme
 
+<img src="./img/img-1.png" alt="Scheme" />
 
 ---
 
@@ -26,6 +27,9 @@ The technology applies to **healthcare, security, autonomous driving, and ecolog
 ---
 
 ## 📖 Full Description
+
+<details>
+  <summary>📖 Click to expand the Description</summary>
 
 ### ⚡ Problem
 Urban environments are home to diverse wildlife 🐿️🦉🦝.  
@@ -106,3 +110,5 @@ It leverages **CNNs (ResNet-50)** to classify species with **high accuracy**, ev
 ---
 
 ✨ **This project demonstrates how AI can help humans coexist with urban wildlife, bringing cutting-edge machine learning into city life.** 🚀
+
+</details>
