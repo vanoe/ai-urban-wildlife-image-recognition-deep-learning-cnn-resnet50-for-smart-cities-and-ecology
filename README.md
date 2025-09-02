@@ -89,7 +89,7 @@ The technology applies to **healthcare, security, autonomous driving, and ecolog
     <tbody>
         <tr>
             <td>
-                <video src="" controls preload>
+                <video src="https://github.com/user-attachments/assets/7e1e915f-5fbe-455d-a538-e8e7821bce09" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
