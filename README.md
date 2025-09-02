@@ -22,7 +22,7 @@ This system uses **Convolutional Neural Networks (CNNs)** to automatically detec
 
 The technology applies to **healthcare, security, autonomous driving, and ecology**, making AI capable of interpreting **visual data in context**.
 
-**Image examples:** 
+## 🧩 Examples
 
 <table>
     <tbody>
@@ -40,6 +40,46 @@ The technology applies to **healthcare, security, autonomous driving, and ecolog
             </td>
             <td>
                 <img src="./img/img-5.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## Examples Demo
+
+<table>
+    <tbody>
+        <tr>
+            <td colspan="2">
+                <img src="./img/Github_recognition.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/Image_original.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/Image_object_detected.webp" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/people.webp" alt="img" />
+            </td>
+            <td>
+                <img src="./img/people_recognition.webp" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <img src="./img/YVN_original.webp" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <img src="./img/YVN_recognition.webp" alt="img" />
             </td>
         </tr>
     </tbody>
